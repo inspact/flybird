@@ -1,0 +1,10 @@
+//资源文件类
+export default [
+    ['background', 'res/background.png'],
+    ['birds', 'res/birds.png'],
+    ['land', 'res/land.png'],
+    ['pie_down', 'res/pie_down.png'],
+    ['pie_up', 'res/pie_up.png'],
+    ['start', 'res/start_button.png']
+
+]
