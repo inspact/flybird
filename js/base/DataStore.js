@@ -19,4 +19,10 @@ export class DataStore {
         }
         return DataStore.instance;
     }
+
+    //清空出具的方法
+    destroy(){
+        this.map.clear();
+    }
+
 }
